@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/bf/a9/28/bfa928ce10cac9daa4e96dad113891e1.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm CHIRAG SINGH</h1>
-<h3 align="center">I'm a Big Data Developer, and a Student!</h3>
-<img align="right" alt="Coding" width="500" asrc="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+[![MasterHead](https://i.pinimg.com/originals/bf/a9/28/bfa928ce10cac9daa4e96dad113891e1.gif)]
+<h1 align="center">Hey There 👋, I'm CHIRAG SINGH</h1>
+<h3 align="center">A Big Data Developer, and a Student!</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigdatabychirag&label=Profile%20views&color=0e75b6&style=flat" alt="bigdatabychirag" /> </p>
 
