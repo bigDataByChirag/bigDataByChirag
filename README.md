@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Kafka Streaming](https://github.com/bigDataByChirag/Kafka-SparkStream-HDFS-PostgreSql-DataEngineering-Project)
 
-- 🌱 I’m currently learning **Spark Structured Streaming**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bigDataByChirag](https://github.com/bigDataByChirag)
 
-- 💬 Ask me about **Big Data, Data Engineering**
+- 💬 Ask me about **Backend Development, Golang**
 
 - 📫 How to reach me **chirag.dataengineer@gmail.com**
 
